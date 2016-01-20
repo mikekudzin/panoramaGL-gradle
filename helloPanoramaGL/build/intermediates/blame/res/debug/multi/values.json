@@ -1,0 +1,184 @@
+[
+    {
+        "outputFile": "D:\\git\\HelloPanoramaGL\\helloPanoramaGL\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 16,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "D:\\git\\HelloPanoramaGL\\helloPanoramaGL\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 231,
+                        "endLine": 11,
+                        "endColumn": 16,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 39,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "D:\\git\\HelloPanoramaGL\\helloPanoramaGL\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 39,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 56,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "D:\\git\\HelloPanoramaGL\\helloPanoramaGL\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 56,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 54,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "D:\\git\\HelloPanoramaGL\\helloPanoramaGL\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 54,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 52,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "D:\\git\\HelloPanoramaGL\\helloPanoramaGL\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 52,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 52,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "D:\\git\\HelloPanoramaGL\\helloPanoramaGL\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 52,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 67,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "D:\\git\\HelloPanoramaGL\\helloPanoramaGL\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 166,
+                        "endColumn": 64,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "D:\\git\\HelloPanoramaGL\\helloPanoramaGL\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "D:\\git\\HelloPanoramaGL\\helloPanoramaGL\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 530,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 722
+                    }
+                }
+            }
+        ]
+    }
+]
